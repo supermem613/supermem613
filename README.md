@@ -1,11 +1,8 @@
 # Marcus Markiewicz
 
 Just another random **Principal Software Engineer** at [Microsoft](http://microsoft.com).
- 
-I design, implement, and optimize software across the full stack, from embedded systems and client applications across platforms 
-(Windows, Android, iOS, Mac) to server infrastructure and cloud services. Storage systems, performance engineering, and scalable 
-architectures are where I invest my deepest energy. I thrive on sustained technical journeys where we don't just ship a solution but 
-uncover foundational insights along the way. My work on the [Office Document Cache](https://www.linkedin.com/pulse/history-office-document-cache-odc-part-1-marcus-markiewicz/?trackingId=Chqp%2BvwpRZiz%2BXci0v1sKQ%3D%3D) is one such example.
+
+I design, implement, and optimize software from embedded systems and client applications (Windows, Android, iOS, Mac) through server infrastructure and cloud services. Storage systems, performance engineering, AI, and scalable architectures are where my passion lies. I gravitate toward sustained technical journeys where we don't just ship a solution but uncover foundational insights that shape how we build the next one. My work on the [Office Document Cache](https://www.linkedin.com/pulse/history-office-document-cache-odc-part-1-marcus-markiewicz/?trackingId=Chqp%2BvwpRZiz%2BXci0v1sKQ%3D%3D) is one such example, ask me about it.
  
 ## My Toolbox
  
