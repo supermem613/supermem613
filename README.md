@@ -9,6 +9,7 @@ I design, implement, and optimize software from embedded systems and client appl
 I build practical tools for agents, developer workflows, Microsoft 365 automation, GitHub ergonomics, and oddly useful local utilities.
  
 - 🧰 [atrium](https://github.com/supermem613/atrium) - Agent-first MCP wrapper for running CLIs with structured JSON results.
+- ⚗️ [forge](https://github.com/supermem613/forge) - Local-first CLI harness for paired control/variant experiments with reusable runbooks, scoring, judging, and reports.
 - 🔎 [xray](https://github.com/supermem613/xray) - Markdown and code search CLI with bundled ripgrep and agent-safe JSON output.
 - 🥋 [bankai](https://github.com/supermem613/bankai) - Agentic orchestration engine for reliable dev-loop, test, and tool workflows.
 - 🧭 [rotunda](https://github.com/supermem613/rotunda) - Sync AI agent skills, extensions, hooks, agents, and settings across machines.
