@@ -3,6 +3,34 @@
 Just another random **Principal Software Engineer** at [Microsoft](http://microsoft.com).
 
 I design, implement, and optimize software from embedded systems and client applications (Windows, Android, iOS, Mac) through server infrastructure and cloud services. Storage systems, performance engineering, AI, and scalable architectures are where my passion lies. I gravitate toward sustained technical journeys where we don't just ship a solution but uncover foundational insights that shape how we build the next one. My work on the [Office Document Cache](https://www.linkedin.com/pulse/history-office-document-cache-odc-part-1-marcus-markiewicz/?trackingId=Chqp%2BvwpRZiz%2BXci0v1sKQ%3D%3D) is one such example, ask me about it.
+
+## Featured repos
+ 
+I build practical tools for agents, developer workflows, Microsoft 365 automation, GitHub ergonomics, and oddly useful local utilities.
+ 
+- 🧰 [atrium](https://github.com/supermem613/atrium) - Agent-first MCP wrapper for running CLIs with structured JSON results.
+- 🔎 [xray](https://github.com/supermem613/xray) - Markdown and code search CLI with bundled ripgrep and agent-safe JSON output.
+- 🥋 [bankai](https://github.com/supermem613/bankai) - Agentic orchestration engine for reliable dev-loop, test, and tool workflows.
+- 🧭 [rotunda](https://github.com/supermem613/rotunda) - Sync AI agent skills, extensions, hooks, agents, and settings across machines.
+- 🪪 [reflux](https://github.com/supermem613/reflux) - Per-identity GitHub credential router for Windows.
+- 🧳 [marshal](https://github.com/supermem613/marshal) - Provision a full CLI tool fleet from one manifest.
+- 🛰️ [telepathy](https://github.com/supermem613/telepathy) - Peer-to-peer terminal sharing over the LAN.
+- 🧩 [copilot-cli-backlog](https://github.com/supermem613/copilot-cli-backlog) - Persistent task backlog extension for GitHub Copilot CLI.
+- 🎯 [copilot-cli-mission](https://github.com/supermem613/copilot-cli-mission) - Autonomous objective runner for GitHub Copilot CLI.
+- 🗂️ [create-office-file-skill](https://github.com/supermem613/create-office-file-skill) - Zero-dependency skill for generating `.pptx` and `.docx` files from Markdown.
+- 📊 [mg-api](https://github.com/supermem613/mg-api) - Agentic Microsoft Graph CLI with a bundled agent skill.
+- 🏢 [sp-api](https://github.com/supermem613/sp-api) - Agentic SharePoint CLI with a bundled agent skill.
+- 🌉 [bridgewright](https://github.com/supermem613/bridgewright) - Use your local browser from Playwright running in Codespaces.
+- 🩹 [PatchItUp](https://github.com/supermem613/PatchItUp) - VS Code extension for moving git patches between Codespaces and local machines.
+- 👁️ [EyePatch](https://github.com/supermem613/EyePatch) - Tool for managing git patches from branches.
+- 📸 [iframe-screenshot](https://github.com/supermem613/iframe-screenshot) - Edge extension for stitching scrollable panes into one PNG.
+- 🪟 [ComingUpNext](https://github.com/supermem613/ComingUpNext) - Windows tray app for showing your next meeting.
+- 🔇 [ShutUpAFK](https://github.com/supermem613/ShutUpAFK) - Makes Windows stop playing sounds when you are away.
+- 🪞 [MMM-NOAAForecast](https://github.com/supermem613/MMM-NOAAForecast) - MagicMirror² weather module using NOAA with no API key.
+- 📰 [MMM-AINews](https://github.com/supermem613/MMM-AINews) - MagicMirror² module for RSS feeds with AI-generated summaries.
+- 🕍 [MMM-ShulSchedule](https://github.com/supermem613/MMM-ShulSchedule) - MagicMirror² module for ShulCloud schedules.
+- 🗓️ [MMM-Yahrzeit](https://github.com/supermem613/MMM-Yahrzeit) - MagicMirror² module for Jewish calendar memorial dates.
+- 🐳 [azure-libreoffice-headless](https://github.com/supermem613/azure-libreoffice-headless) - Azure-friendly headless LibreOffice build that works without root access.
  
 ## My Toolbox
  
@@ -20,3 +48,4 @@ I design, implement, and optimize software from embedded systems and client appl
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+
