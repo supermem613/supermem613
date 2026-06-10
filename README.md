@@ -16,6 +16,7 @@ I build practical tools for agents, developer workflows, Microsoft 365 automatio
 - 🪪 [reflux](https://github.com/supermem613/reflux) - Per-identity GitHub credential router for Windows.
 - 🧳 [marshal](https://github.com/supermem613/marshal) - Provision a full CLI tool fleet from one manifest.
 - 🛰️ [telepathy](https://github.com/supermem613/telepathy) - Peer-to-peer terminal sharing over the LAN.
+- 🛢️ [grease](https://github.com/supermem613/grease) - Local-only GitHub Copilot CLI extension that catalogs session friction and turns it into addressable work.
 - 🧩 [copilot-cli-backlog](https://github.com/supermem613/copilot-cli-backlog) - Persistent task backlog extension for GitHub Copilot CLI.
 - 🎯 [copilot-cli-mission](https://github.com/supermem613/copilot-cli-mission) - Autonomous objective runner for GitHub Copilot CLI.
 - 🗂️ [create-office-file-skill](https://github.com/supermem613/create-office-file-skill) - Zero-dependency skill for generating `.pptx` and `.docx` files from Markdown.
