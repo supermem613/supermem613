@@ -15,6 +15,7 @@ I build practical tools for agents, developer workflows, Microsoft 365 automatio
 - 🧭 [rotunda](https://github.com/supermem613/rotunda) - Sync AI agent skills, extensions, hooks, agents, and settings across machines.
 - 🪪 [reflux](https://github.com/supermem613/reflux) - Per-identity GitHub credential router for Windows.
 - 🧳 [marshal](https://github.com/supermem613/marshal) - Provision a full CLI tool fleet from one manifest.
+- 🕳️ [plothole](https://github.com/supermem613/plothole) - Drive a GitHub Codespace's compile, run, test, edit, and search from your host agent.
 - 🛰️ [telepathy](https://github.com/supermem613/telepathy) - Peer-to-peer terminal sharing over the LAN.
 - 🛢️ [grease](https://github.com/supermem613/grease) - Local-only GitHub Copilot CLI extension that catalogs session friction and turns it into addressable work.
 - 🧩 [copilot-cli-backlog](https://github.com/supermem613/copilot-cli-backlog) - Persistent task backlog extension for GitHub Copilot CLI.
