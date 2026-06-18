@@ -29,6 +29,7 @@ I build practical tools for agents, developer workflows, Microsoft 365 automatio
 - 📸 [iframe-screenshot](https://github.com/supermem613/iframe-screenshot) - Edge extension for stitching scrollable panes into one PNG.
 - 🪟 [ComingUpNext](https://github.com/supermem613/ComingUpNext) - Windows tray app for showing your next meeting.
 - 🔇 [ShutUpAFK](https://github.com/supermem613/ShutUpAFK) - Makes Windows stop playing sounds when you are away.
+- 🔇 [shuush](https://github.com/supermem613/shuush) - Windows tray app that syncs Microsoft Teams mute state with the MuteMe USB button.
 - 🪞 [MMM-NOAAForecast](https://github.com/supermem613/MMM-NOAAForecast) - MagicMirror² weather module using NOAA with no API key.
 - 📰 [MMM-AINews](https://github.com/supermem613/MMM-AINews) - MagicMirror² module for RSS feeds with AI-generated summaries.
 - 🕍 [MMM-ShulSchedule](https://github.com/supermem613/MMM-ShulSchedule) - MagicMirror² module for ShulCloud schedules.
