@@ -10,6 +10,7 @@ I build practical tools for agents, developer workflows, Microsoft 365 automatio
  
 - 🧰 [atrium](https://github.com/supermem613/atrium) - Agent-first MCP wrapper for running CLIs with structured JSON results.
 - 🖍️ [humanizer](https://github.com/supermem613/humanizer) - PowerShell helper that pretty-prints and colorizes JSON from wrapped CLIs while preserving raw output for agents, pipes, and redirects.
+- 📡 [uhura](https://github.com/supermem613/uhura) - Local bridge for routing prompts and replies between visible Copilot CLI sessions and local clients.
 - ⚗️ [forge](https://github.com/supermem613/forge) - Local-first CLI harness for paired control/variant experiments with reusable runbooks, scoring, judging, and reports.
 - 🔎 [xray](https://github.com/supermem613/xray) - Markdown and code search CLI with bundled ripgrep and agent-safe JSON output.
 - 🥋 [bankai](https://github.com/supermem613/bankai) - Agentic orchestration engine for reliable dev-loop, test, and tool workflows.
